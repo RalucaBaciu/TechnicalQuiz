@@ -1,0 +1,8 @@
+{
+    "questions":
+    [
+        {"id":"1","question":"In which phase of the software design and development project would you fix errors in the new built and operational system?","answers":["Development phase","Maintenance phase","	Implementation phase","Execution phase"]},
+        {"id":"2","question":"What term refers to the fast-paced building or construction of a software prototype?","answers":["Rapid application development (RAD)","Rapid agility programming (RAP)","Speed programming","Express development (ED)"]},
+        {"id":"3","question":"What term refers to the end user developing software without the assistance of IT?","answers":["User development","In-sourcing","Self service","Selfsourcing"]}
+    ]
+}
